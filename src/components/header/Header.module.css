@@ -1,0 +1,29 @@
+.container {
+    /* display: flex; */
+    width: 100%;
+    position: relative;
+    height: 80px;
+    margin: 0 0 20px 0;
+    padding: 0 2%;
+    background: rgba(114, 82, 243, 0.9);
+    /* align-items: center;
+    justify-content: space-between; */
+}
+
+.container .h1 {
+    color: #fff;
+    font-size: 150%;
+    height: 100%;
+    text-decoration: none;
+    font-weight: 700;
+}
+
+.h1 span {
+    color: gold;
+}
+
+@media screen and (max-width: 500px) {
+    .container {
+        padding: 40px 20px;
+    }
+}

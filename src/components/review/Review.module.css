@@ -1,0 +1,12 @@
+#relatedItem h3,
+#reviewItem h3 {
+    color: rgb(72, 72, 72);
+    margin: 15px 0;
+    font-size: 120%;
+    text-transform: uppercase;
+}
+
+#reviewItem,
+#viewItemDetailContainer {
+    padding-bottom: 50px;
+}

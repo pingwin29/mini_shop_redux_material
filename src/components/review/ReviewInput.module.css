@@ -1,0 +1,26 @@
+.reviewInput {
+    margin: 20px auto 0 auto;
+    width: 95%;
+}
+
+.reviewInput label {
+    font-size: 85%;
+    font-weight: 700;
+    display: block;
+    color: rgb(72, 72, 72);
+    margin: 20px 0 20px 2.5%;
+    width: 95%;
+    /* text-transform: uppercase; */
+}
+
+.reviewInput textarea {
+    display: block;
+    outline: none;
+    border: 0.1px solid rgb(214, 207, 207);
+    padding: 20px;
+    resize: none;
+    width: 100%;
+    box-sizing: border-box;
+    margin: 0 auto;
+    height: 200px;
+}

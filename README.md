@@ -1,0 +1,1 @@
+# mini_shop_redux_material

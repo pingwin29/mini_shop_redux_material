@@ -10,7 +10,7 @@ export const api = [
     detail:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Blanditiis, fugiat voluptas! Similique ipsa nostrum quasi odit cum voluptate nisi repellat nesciunt placeat laudantium, accusamus unde voluptates consectetur at vel nam vero earum ea cupiditate! Illo, quaerat? Eveniet quia cumque reiciendis?",
     cat: "hats",
-    img: "img/hats/hats000.jpg",
+    img: "/mini_shop_redux_material/img/hats/hats000.jpg",
   },
 
   {
@@ -22,7 +22,7 @@ export const api = [
     detail:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Blanditiis, fugiat voluptas! Similique ipsa nostrum quasi odit cum voluptate nisi repellat nesciunt placeat laudantium, accusamus unde voluptates consectetur at vel nam vero earum ea cupiditate! Illo, quaerat? Eveniet quia cumque reiciendis?",
     cat: "hats",
-    img: "img/hats/hats001.jpg",
+    img: "/mini_shop_redux_material/img/hats/hats001.jpg",
   },
 
   {
@@ -34,7 +34,7 @@ export const api = [
     detail:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Blanditiis, fugiat voluptas! Similique ipsa nostrum quasi odit cum voluptate nisi repellat nesciunt placeat laudantium, accusamus unde voluptates consectetur at vel nam vero earum ea cupiditate! Illo, quaerat? Eveniet quia cumque reiciendis?",
     cat: "hats",
-    img: "img/hats/hats002.jpg",
+    img: "/mini_shop_redux_material/img/hats/hats002.jpg",
   },
 
   {
@@ -46,7 +46,7 @@ export const api = [
     detail:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Blanditiis, fugiat voluptas! Similique ipsa nostrum quasi odit cum voluptate nisi repellat nesciunt placeat laudantium, accusamus unde voluptates consectetur at vel nam vero earum ea cupiditate! Illo, quaerat? Eveniet quia cumque reiciendis?",
     cat: "hats",
-    img: "img/hats/hats004.jpg",
+    img: "/mini_shop_redux_material/img/hats/hats004.jpg",
   },
 
   {
@@ -59,7 +59,7 @@ export const api = [
     detail:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Blanditiis, fugiat voluptas! Similique ipsa nostrum quasi odit cum voluptate nisi repellat nesciunt placeat laudantium, accusamus unde voluptates consectetur at vel nam vero earum ea cupiditate! Illo, quaerat? Eveniet quia cumque reiciendis?",
     cat: "hats",
-    img: "img/hats/hats005.jpg",
+    img: "/mini_shop_redux_material/img/hats/hats005.jpg",
   },
   {
     id: 5,
@@ -71,7 +71,7 @@ export const api = [
     detail:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Blanditiis, fugiat voluptas! Similique ipsa nostrum quasi odit cum voluptate nisi repellat nesciunt placeat laudantium, accusamus unde voluptates consectetur at vel nam vero earum ea cupiditate! Illo, quaerat? Eveniet quia cumque reiciendis?",
     cat: "hats",
-    img: "img/hats/hats006.jpg",
+    img: "/mini_shop_redux_material/img/hats/hats006.jpg",
   },
   {
     id: 6,
@@ -82,7 +82,7 @@ export const api = [
     detail:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Blanditiis, fugiat voluptas! Similique ipsa nostrum quasi odit cum voluptate nisi repellat nesciunt placeat laudantium, accusamus unde voluptates consectetur at vel nam vero earum ea cupiditate! Illo, quaerat? Eveniet quia cumque reiciendis?",
     cat: "hats",
-    img: "img/hats/hats007.jpg",
+    img: "/mini_shop_redux_material/img/hats/hats007.jpg",
   },
   {
     id: 7,
@@ -93,7 +93,7 @@ export const api = [
     detail:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Blanditiis, fugiat voluptas! Similique ipsa nostrum quasi odit cum voluptate nisi repellat nesciunt placeat laudantium, accusamus unde voluptates consectetur at vel nam vero earum ea cupiditate! Illo, quaerat? Eveniet quia cumque reiciendis?",
     cat: "hats",
-    img: "img/hats/hats008.jpg",
+    img: "/mini_shop_redux_material/img/hats/hats008.jpg",
   },
   {
     id: 8,
@@ -104,7 +104,7 @@ export const api = [
     detail:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Blanditiis, fugiat voluptas! Similique ipsa nostrum quasi odit cum voluptate nisi repellat nesciunt placeat laudantium, accusamus unde voluptates consectetur at vel nam vero earum ea cupiditate! Illo, quaerat? Eveniet quia cumque reiciendis?",
     cat: "hats",
-    img: "img/hats/hats009.jpg",
+    img: "/mini_shop_redux_material/img/hats/hats009.jpg",
   },
   {
     id: 9,
@@ -115,7 +115,7 @@ export const api = [
     detail:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Blanditiis, fugiat voluptas! Similique ipsa nostrum quasi odit cum voluptate nisi repellat nesciunt placeat laudantium, accusamus unde voluptates consectetur at vel nam vero earum ea cupiditate! Illo, quaerat? Eveniet quia cumque reiciendis?",
     cat: "hats",
-    img: "img/hats/hats010.jpg",
+    img: "/mini_shop_redux_material/img/hats/hats010.jpg",
   },
   {
     id: 10,
@@ -126,7 +126,7 @@ export const api = [
     detail:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Blanditiis, fugiat voluptas! Similique ipsa nostrum quasi odit cum voluptate nisi repellat nesciunt placeat laudantium, accusamus unde voluptates consectetur at vel nam vero earum ea cupiditate! Illo, quaerat? Eveniet quia cumque reiciendis?",
     cat: "books",
-    img: "img/books/books001.jpg",
+    img: "/mini_shop_redux_material/img/books/books001.jpg",
   },
 
   {
@@ -138,7 +138,7 @@ export const api = [
     detail:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Blanditiis, fugiat voluptas! Similique ipsa nostrum quasi odit cum voluptate nisi repellat nesciunt placeat laudantium, accusamus unde voluptates consectetur at vel nam vero earum ea cupiditate! Illo, quaerat? Eveniet quia cumque reiciendis?",
     cat: "books",
-    img: "img/books/books002.jpg",
+    img: "/mini_shop_redux_material/img/books/books002.jpg",
   },
 
   {
@@ -150,7 +150,7 @@ export const api = [
     detail:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Blanditiis, fugiat voluptas! Similique ipsa nostrum quasi odit cum voluptate nisi repellat nesciunt placeat laudantium, accusamus unde voluptates consectetur at vel nam vero earum ea cupiditate! Illo, quaerat? Eveniet quia cumque reiciendis?",
     cat: "books",
-    img: "img/books/books003.jpg",
+    img: "/mini_shop_redux_material/img/books/books003.jpg",
   },
 
   {
@@ -162,7 +162,7 @@ export const api = [
     detail:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Blanditiis, fugiat voluptas! Similique ipsa nostrum quasi odit cum voluptate nisi repellat nesciunt placeat laudantium, accusamus unde voluptates consectetur at vel nam vero earum ea cupiditate! Illo, quaerat? Eveniet quia cumque reiciendis?",
     cat: "books",
-    img: "img/books/books004.jpg",
+    img: "/mini_shop_redux_material/img/books/books004.jpg",
   },
 
   {
@@ -174,7 +174,7 @@ export const api = [
     detail:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Blanditiis, fugiat voluptas! Similique ipsa nostrum quasi odit cum voluptate nisi repellat nesciunt placeat laudantium, accusamus unde voluptates consectetur at vel nam vero earum ea cupiditate! Illo, quaerat? Eveniet quia cumque reiciendis?",
     cat: "books",
-    img: "img/books/books005.jpg",
+    img: "/mini_shop_redux_material/img/books/books005.jpg",
   },
   {
     id: 15,
@@ -185,7 +185,7 @@ export const api = [
     detail:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Blanditiis, fugiat voluptas! Similique ipsa nostrum quasi odit cum voluptate nisi repellat nesciunt placeat laudantium, accusamus unde voluptates consectetur at vel nam vero earum ea cupiditate! Illo, quaerat? Eveniet quia cumque reiciendis?",
     cat: "books",
-    img: "img/books/books006.jpg",
+    img: "/mini_shop_redux_material/img/books/books006.jpg",
   },
   {
     id: 16,
@@ -196,7 +196,7 @@ export const api = [
     detail:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Blanditiis, fugiat voluptas! Similique ipsa nostrum quasi odit cum voluptate nisi repellat nesciunt placeat laudantium, accusamus unde voluptates consectetur at vel nam vero earum ea cupiditate! Illo, quaerat? Eveniet quia cumque reiciendis?",
     cat: "books",
-    img: "img/books/books007.jpg",
+    img: "/mini_shop_redux_material/img/books/books007.jpg",
   },
   {
     id: 17,
@@ -207,7 +207,7 @@ export const api = [
     detail:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Blanditiis, fugiat voluptas! Similique ipsa nostrum quasi odit cum voluptate nisi repellat nesciunt placeat laudantium, accusamus unde voluptates consectetur at vel nam vero earum ea cupiditate! Illo, quaerat? Eveniet quia cumque reiciendis?",
     cat: "books",
-    img: "img/books/books008.jpg",
+    img: "/mini_shop_redux_material/img/books/books008.jpg",
   },
   {
     id: 18,
@@ -218,7 +218,7 @@ export const api = [
     detail:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Blanditiis, fugiat voluptas! Similique ipsa nostrum quasi odit cum voluptate nisi repellat nesciunt placeat laudantium, accusamus unde voluptates consectetur at vel nam vero earum ea cupiditate! Illo, quaerat? Eveniet quia cumque reiciendis?",
     cat: "books",
-    img: "img/books/books009.jpg",
+    img: "/mini_shop_redux_material/img/books/books009.jpg",
   },
   {
     id: 19,
@@ -229,7 +229,7 @@ export const api = [
     detail:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Blanditiis, fugiat voluptas! Similique ipsa nostrum quasi odit cum voluptate nisi repellat nesciunt placeat laudantium, accusamus unde voluptates consectetur at vel nam vero earum ea cupiditate! Illo, quaerat? Eveniet quia cumque reiciendis?",
     cat: "books",
-    img: "img/books/books010.jpg",
+    img: "/mini_shop_redux_material/img/books/books010.jpg",
   },
   {
     id: 20,
@@ -240,7 +240,7 @@ export const api = [
     detail:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Blanditiis, fugiat voluptas! Similique ipsa nostrum quasi odit cum voluptate nisi repellat nesciunt placeat laudantium, accusamus unde voluptates consectetur at vel nam vero earum ea cupiditate! Illo, quaerat? Eveniet quia cumque reiciendis?",
     cat: "bags",
-    img: "img/bags/bags001.png",
+    img: "/mini_shop_redux_material/img/bags/bags001.png",
   },
 
   {
@@ -252,7 +252,7 @@ export const api = [
     detail:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Blanditiis, fugiat voluptas! Similique ipsa nostrum quasi odit cum voluptate nisi repellat nesciunt placeat laudantium, accusamus unde voluptates consectetur at vel nam vero earum ea cupiditate! Illo, quaerat? Eveniet quia cumque reiciendis?",
     cat: "bags",
-    img: "img/bags/bags002.png",
+    img: "/mini_shop_redux_material/img/bags/bags002.png",
   },
 
   {
@@ -264,7 +264,7 @@ export const api = [
     detail:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Blanditiis, fugiat voluptas! Similique ipsa nostrum quasi odit cum voluptate nisi repellat nesciunt placeat laudantium, accusamus unde voluptates consectetur at vel nam vero earum ea cupiditate! Illo, quaerat? Eveniet quia cumque reiciendis?",
     cat: "bags",
-    img: "img/bags/bags003.png",
+    img: "/mini_shop_redux_material/img/bags/bags003.png",
   },
 
   {
@@ -276,7 +276,7 @@ export const api = [
     detail:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Blanditiis, fugiat voluptas! Similique ipsa nostrum quasi odit cum voluptate nisi repellat nesciunt placeat laudantium, accusamus unde voluptates consectetur at vel nam vero earum ea cupiditate! Illo, quaerat? Eveniet quia cumque reiciendis?",
     cat: "bags",
-    img: "img/bags/bags004.png",
+    img: "/mini_shop_redux_material/img/bags/bags004.png",
   },
 
   {
@@ -288,7 +288,7 @@ export const api = [
     detail:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Blanditiis, fugiat voluptas! Similique ipsa nostrum quasi odit cum voluptate nisi repellat nesciunt placeat laudantium, accusamus unde voluptates consectetur at vel nam vero earum ea cupiditate! Illo, quaerat? Eveniet quia cumque reiciendis?",
     cat: "bags",
-    img: "img/bags/bags005.png",
+    img: "/mini_shop_redux_material/img/bags/bags005.png",
   },
   {
     id: 25,
@@ -299,7 +299,7 @@ export const api = [
     detail:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Blanditiis, fugiat voluptas! Similique ipsa nostrum quasi odit cum voluptate nisi repellat nesciunt placeat laudantium, accusamus unde voluptates consectetur at vel nam vero earum ea cupiditate! Illo, quaerat? Eveniet quia cumque reiciendis?",
     cat: "bags",
-    img: "img/bags/bags006.png",
+    img: "/mini_shop_redux_material/img/bags/bags006.png",
   },
   {
     id: 26,
@@ -310,7 +310,7 @@ export const api = [
     detail:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Blanditiis, fugiat voluptas! Similique ipsa nostrum quasi odit cum voluptate nisi repellat nesciunt placeat laudantium, accusamus unde voluptates consectetur at vel nam vero earum ea cupiditate! Illo, quaerat? Eveniet quia cumque reiciendis?",
     cat: "bags",
-    img: "img/bags/bags007.png",
+    img: "/mini_shop_redux_material/img/bags/bags007.png",
   },
   {
     id: 27,
@@ -321,7 +321,7 @@ export const api = [
     detail:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Blanditiis, fugiat voluptas! Similique ipsa nostrum quasi odit cum voluptate nisi repellat nesciunt placeat laudantium, accusamus unde voluptates consectetur at vel nam vero earum ea cupiditate! Illo, quaerat? Eveniet quia cumque reiciendis?",
     cat: "bags",
-    img: "img/bags/bags008.png",
+    img: "/mini_shop_redux_material/img/bags/bags008.png",
   },
   {
     id: 28,
@@ -332,7 +332,7 @@ export const api = [
     detail:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Blanditiis, fugiat voluptas! Similique ipsa nostrum quasi odit cum voluptate nisi repellat nesciunt placeat laudantium, accusamus unde voluptates consectetur at vel nam vero earum ea cupiditate! Illo, quaerat? Eveniet quia cumque reiciendis?",
     cat: "bags",
-    img: "img/bags/bags009.png",
+    img: "/mini_shop_redux_material/img/bags/bags009.png",
   },
   {
     id: 29,
@@ -343,7 +343,7 @@ export const api = [
     detail:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Blanditiis, fugiat voluptas! Similique ipsa nostrum quasi odit cum voluptate nisi repellat nesciunt placeat laudantium, accusamus unde voluptates consectetur at vel nam vero earum ea cupiditate! Illo, quaerat? Eveniet quia cumque reiciendis?",
     cat: "bags",
-    img: "img/bags/bags010.png",
+    img: "/mini_shop_redux_material/img/bags/bags010.png",
   },
   {
     id: 30,
@@ -354,7 +354,7 @@ export const api = [
     detail:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Blanditiis, fugiat voluptas! Similique ipsa nostrum quasi odit cum voluptate nisi repellat nesciunt placeat laudantium, accusamus unde voluptates consectetur at vel nam vero earum ea cupiditate! Illo, quaerat? Eveniet quia cumque reiciendis?",
     cat: "handmades",
-    img: "img/handmades/handmades001.jpg",
+    img: "/mini_shop_redux_material/img/handmades/handmades001.jpg",
   },
 
   {
@@ -366,7 +366,7 @@ export const api = [
     detail:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Blanditiis, fugiat voluptas! Similique ipsa nostrum quasi odit cum voluptate nisi repellat nesciunt placeat laudantium, accusamus unde voluptates consectetur at vel nam vero earum ea cupiditate! Illo, quaerat? Eveniet quia cumque reiciendis?",
     cat: "handmades",
-    img: "img/handmades/handmades002.jpg",
+    img: "/mini_shop_redux_material/img/handmades/handmades002.jpg",
   },
 
   {
@@ -378,7 +378,7 @@ export const api = [
     detail:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Blanditiis, fugiat voluptas! Similique ipsa nostrum quasi odit cum voluptate nisi repellat nesciunt placeat laudantium, accusamus unde voluptates consectetur at vel nam vero earum ea cupiditate! Illo, quaerat? Eveniet quia cumque reiciendis?",
     cat: "handmades",
-    img: "img/handmades/handmades003.jpg",
+    img: "/mini_shop_redux_material/img/handmades/handmades003.jpg",
   },
 
   {
@@ -390,7 +390,7 @@ export const api = [
     detail:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Blanditiis, fugiat voluptas! Similique ipsa nostrum quasi odit cum voluptate nisi repellat nesciunt placeat laudantium, accusamus unde voluptates consectetur at vel nam vero earum ea cupiditate! Illo, quaerat? Eveniet quia cumque reiciendis?",
     cat: "handmades",
-    img: "img/handmades/handmades004.jpg",
+    img: "/mini_shop_redux_material/img/handmades/handmades004.jpg",
   },
 
   {
@@ -402,7 +402,7 @@ export const api = [
     detail:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Blanditiis, fugiat voluptas! Similique ipsa nostrum quasi odit cum voluptate nisi repellat nesciunt placeat laudantium, accusamus unde voluptates consectetur at vel nam vero earum ea cupiditate! Illo, quaerat? Eveniet quia cumque reiciendis?",
     cat: "handmades",
-    img: "img/handmades/handmades005.jpg",
+    img: "/mini_shop_redux_material/img/handmades/handmades005.jpg",
   },
   {
     id: 35,
@@ -413,7 +413,7 @@ export const api = [
     detail:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Blanditiis, fugiat voluptas! Similique ipsa nostrum quasi odit cum voluptate nisi repellat nesciunt placeat laudantium, accusamus unde voluptates consectetur at vel nam vero earum ea cupiditate! Illo, quaerat? Eveniet quia cumque reiciendis?",
     cat: "handmades",
-    img: "img/handmades/handmades006.jpg",
+    img: "/mini_shop_redux_material/img/handmades/handmades006.jpg",
   },
   {
     id: 36,
@@ -424,7 +424,7 @@ export const api = [
     detail:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Blanditiis, fugiat voluptas! Similique ipsa nostrum quasi odit cum voluptate nisi repellat nesciunt placeat laudantium, accusamus unde voluptates consectetur at vel nam vero earum ea cupiditate! Illo, quaerat? Eveniet quia cumque reiciendis?",
     cat: "handmades",
-    img: "img/handmades/handmades007.jpg",
+    img: "/mini_shop_redux_material/img/handmades/handmades007.jpg",
   },
   {
     id: 37,
@@ -435,7 +435,7 @@ export const api = [
     detail:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Blanditiis, fugiat voluptas! Similique ipsa nostrum quasi odit cum voluptate nisi repellat nesciunt placeat laudantium, accusamus unde voluptates consectetur at vel nam vero earum ea cupiditate! Illo, quaerat? Eveniet quia cumque reiciendis?",
     cat: "handmades",
-    img: "img/handmades/handmades008.jpg",
+    img: "/mini_shop_redux_material/img/handmades/handmades008.jpg",
   },
   {
     id: 38,
@@ -446,7 +446,7 @@ export const api = [
     detail:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Blanditiis, fugiat voluptas! Similique ipsa nostrum quasi odit cum voluptate nisi repellat nesciunt placeat laudantium, accusamus unde voluptates consectetur at vel nam vero earum ea cupiditate! Illo, quaerat? Eveniet quia cumque reiciendis?",
     cat: "handmades",
-    img: "img/handmades/handmades009.png",
+    img: "/mini_shop_redux_material/img/handmades/handmades009.png",
   },
   {
     id: 39,
@@ -457,7 +457,7 @@ export const api = [
     detail:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Blanditiis, fugiat voluptas! Similique ipsa nostrum quasi odit cum voluptate nisi repellat nesciunt placeat laudantium, accusamus unde voluptates consectetur at vel nam vero earum ea cupiditate! Illo, quaerat? Eveniet quia cumque reiciendis?",
     cat: "handmades",
-    img: "img/handmades/handmades010.jpg",
+    img: "/mini_shop_redux_material/img/handmades/handmades010.jpg",
   },
   {
     id: 40,
@@ -468,7 +468,7 @@ export const api = [
     detail:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Blanditiis, fugiat voluptas! Similique ipsa nostrum quasi odit cum voluptate nisi repellat nesciunt placeat laudantium, accusamus unde voluptates consectetur at vel nam vero earum ea cupiditate! Illo, quaerat? Eveniet quia cumque reiciendis?",
     cat: "others",
-    img: "img/others/others001.jpg",
+    img: "/mini_shop_redux_material/img/others/others001.jpg",
   },
 
   {
@@ -480,7 +480,7 @@ export const api = [
     detail:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Blanditiis, fugiat voluptas! Similique ipsa nostrum quasi odit cum voluptate nisi repellat nesciunt placeat laudantium, accusamus unde voluptates consectetur at vel nam vero earum ea cupiditate! Illo, quaerat? Eveniet quia cumque reiciendis?",
     cat: "others",
-    img: "img/others/others002.jpg",
+    img: "/mini_shop_redux_material/img/others/others002.jpg",
   },
 
   {
@@ -492,7 +492,7 @@ export const api = [
     detail:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Blanditiis, fugiat voluptas! Similique ipsa nostrum quasi odit cum voluptate nisi repellat nesciunt placeat laudantium, accusamus unde voluptates consectetur at vel nam vero earum ea cupiditate! Illo, quaerat? Eveniet quia cumque reiciendis?",
     cat: "others",
-    img: "img/others/others003.jpg",
+    img: "/mini_shop_redux_material/img/others/others003.jpg",
   },
 
   {
@@ -504,7 +504,7 @@ export const api = [
     detail:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Blanditiis, fugiat voluptas! Similique ipsa nostrum quasi odit cum voluptate nisi repellat nesciunt placeat laudantium, accusamus unde voluptates consectetur at vel nam vero earum ea cupiditate! Illo, quaerat? Eveniet quia cumque reiciendis?",
     cat: "others",
-    img: "img/others/others004.png",
+    img: "/mini_shop_redux_material/img/others/others004.png",
   },
 
   {
@@ -516,7 +516,7 @@ export const api = [
     detail:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Blanditiis, fugiat voluptas! Similique ipsa nostrum quasi odit cum voluptate nisi repellat nesciunt placeat laudantium, accusamus unde voluptates consectetur at vel nam vero earum ea cupiditate! Illo, quaerat? Eveniet quia cumque reiciendis?",
     cat: "others",
-    img: "img/others/others005.jpg",
+    img: "/mini_shop_redux_material/img/others/others005.jpg",
   },
   {
     id: 45,
@@ -527,7 +527,7 @@ export const api = [
     detail:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Blanditiis, fugiat voluptas! Similique ipsa nostrum quasi odit cum voluptate nisi repellat nesciunt placeat laudantium, accusamus unde voluptates consectetur at vel nam vero earum ea cupiditate! Illo, quaerat? Eveniet quia cumque reiciendis?",
     cat: "others",
-    img: "img/others/others006.jpg",
+    img: "/mini_shop_redux_material/img/others/others006.jpg",
   },
   {
     id: 46,
@@ -538,7 +538,7 @@ export const api = [
     detail:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Blanditiis, fugiat voluptas! Similique ipsa nostrum quasi odit cum voluptate nisi repellat nesciunt placeat laudantium, accusamus unde voluptates consectetur at vel nam vero earum ea cupiditate! Illo, quaerat? Eveniet quia cumque reiciendis?",
     cat: "others",
-    img: "img/others/others007.jpg",
+    img: "/mini_shop_redux_material/img/others/others007.jpg",
   },
   {
     id: 47,
@@ -549,7 +549,7 @@ export const api = [
     detail:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Blanditiis, fugiat voluptas! Similique ipsa nostrum quasi odit cum voluptate nisi repellat nesciunt placeat laudantium, accusamus unde voluptates consectetur at vel nam vero earum ea cupiditate! Illo, quaerat? Eveniet quia cumque reiciendis?",
     cat: "others",
-    img: "img/others/others008.jpg",
+    img: "/mini_shop_redux_material/img/others/others008.jpg",
   },
   {
     id: 48,
@@ -560,7 +560,7 @@ export const api = [
     detail:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Blanditiis, fugiat voluptas! Similique ipsa nostrum quasi odit cum voluptate nisi repellat nesciunt placeat laudantium, accusamus unde voluptates consectetur at vel nam vero earum ea cupiditate! Illo, quaerat? Eveniet quia cumque reiciendis?",
     cat: "others",
-    img: "img/others/others009.jpg",
+    img: "/mini_shop_redux_material/img/others/others009.jpg",
   },
   {
     id: 49,
@@ -571,6 +571,6 @@ export const api = [
     detail:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Blanditiis, fugiat voluptas! Similique ipsa nostrum quasi odit cum voluptate nisi repellat nesciunt placeat laudantium, accusamus unde voluptates consectetur at vel nam vero earum ea cupiditate! Illo, quaerat? Eveniet quia cumque reiciendis?",
     cat: "others",
-    img: "img/others/others010.jpg",
+    img: "/mini_shop_redux_material/img/others/others010.jpg",
   },
 ];

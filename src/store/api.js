@@ -413,7 +413,7 @@ export const api = [
     detail:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Blanditiis, fugiat voluptas! Similique ipsa nostrum quasi odit cum voluptate nisi repellat nesciunt placeat laudantium, accusamus unde voluptates consectetur at vel nam vero earum ea cupiditate! Illo, quaerat? Eveniet quia cumque reiciendis?",
     cat: "handmades",
-    img: "/mini_shop_redux_material/img/handmades/handmades006.jpg",
+    img: "/mini_shop_redux_material/img/handmades/handmades006.png",
   },
   {
     id: 36,
@@ -424,7 +424,7 @@ export const api = [
     detail:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Blanditiis, fugiat voluptas! Similique ipsa nostrum quasi odit cum voluptate nisi repellat nesciunt placeat laudantium, accusamus unde voluptates consectetur at vel nam vero earum ea cupiditate! Illo, quaerat? Eveniet quia cumque reiciendis?",
     cat: "handmades",
-    img: "/mini_shop_redux_material/img/handmades/handmades007.jpg",
+    img: "/mini_shop_redux_material/img/handmades/handmades007.png",
   },
   {
     id: 37,
